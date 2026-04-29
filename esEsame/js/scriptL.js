@@ -17,7 +17,7 @@ document.getElementById('loginBtn').addEventListener('click', async function() {
 
     if (bodyJson.success) {
         alert("Login successful!");
-        window.location.href = "index.php";
+        window.location.href = "hobby.php";
     } else {
        alert(bodyJson.message);
     }
