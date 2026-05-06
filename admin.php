@@ -13,7 +13,7 @@ if (isset($_SESSION['username'])) {
     }
     else{
         echo json_encode(["success" => false, "message" => "Accesso negato. Operazione non autorizzata."]);
-        header("Location: index.php");
+        header("Location: hobby.php");
         exit;
     }
 }

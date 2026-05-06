@@ -18,6 +18,6 @@
     </div>
     
     <div id="risultatiOfficine" style="margin-top: 20px;"></div>
-    <button onclick="location.href='index.php'">Torna alla pagina principale</button>
+    <button onclick="location.href='hobby.php'">Torna alla pagina principale</button>
 </body>
 </html>
