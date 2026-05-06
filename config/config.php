@@ -2,8 +2,8 @@
 
 class Config {
     static public $hostname = "localhost";
-    static public $username = "admin";
-    static public $password = ",;XI?b@h1aW9?eV-";
+    static public $username = "tpjfctya_admin";
+    static public $password = "PasswordDatabase";
     static public $dbName = "tpjfctya_wp397";
 
 }
