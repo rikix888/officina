@@ -1,0 +1,10 @@
+login, register, logout 
+3 tipi di autenticazione admin,cliente,dipendente
+dipendete 2 tipi, tecnico magaziniere
+visualizza listino officina= elenco officine servizi, accessori, pezzi ricambio
+ricerca dato un servizio , accessorio , pezzi ricambio
+admin aggiunge/creare disponibili (non che li aggiunge alle officine solo li aggiugne al db) servizi , accessori , pezzi di ricambio (solo login)
+selezionare un oficina, selezionare servizi non associati e poterli associarli
+
+attivare account con email, genero un codice guid , metto nel db e nella mail mando link con il codice nell'url , quando schiaccio controlla db, flag autenticato, elimino codice dal db
+reset passwd , stessa cosa, poi cambia pass
