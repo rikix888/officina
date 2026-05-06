@@ -32,6 +32,7 @@ else {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pannello Amministratore</title>
     <script src="js/scriptAdmin.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <h1>Gestione Servizi Officine</h1>
